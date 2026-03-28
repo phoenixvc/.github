@@ -2,7 +2,7 @@
 
 **Building AI platforms for storytelling, enterprise intelligence, and developer ops.**
 
-South Africa &middot; [phoenixvc.tech](https://phoenixvc.tech) &middot; [Facebook](https://www.facebook.com/share/1araPpLvtR/) &middot; Eben (CEO/Founder) [eben@phoenixvc.tech](mailto:eben@phoenixvc.tech) &middot; Jurie (Tech) [jurie@phoenixvc.tech](mailto:jurie@phoenixvc.tech)
+South Africa &middot; [phoenixvc.tech](https://phoenixvc.tech) &middot; [LinkedIn](https://www.linkedin.com/company/phoenix-vc/) &middot; [Facebook](https://www.facebook.com/share/1araPpLvtR/) &middot; Eben (CEO/Founder) [eben@phoenixvc.tech](mailto:eben@phoenixvc.tech) &middot; Jurie (Tech) [jurie@phoenixvc.tech](mailto:jurie@phoenixvc.tech)
 
 ---
 
