@@ -2,7 +2,7 @@
 
 **Building AI platforms for storytelling, enterprise intelligence, and developer ops.**
 
-South Africa  ·  [phoenixvc.tech](https://phoenixvc.tech)  ·  Eben (CEO/Founder) [eben@phoenixvc.tech](mailto:eben@phoenixvc.tech)  ·  Jurie (Tech) [jurie@phoenixvc.tech](mailto:jurie@phoenixvc.tech)
+South Africa &middot; [phoenixvc.tech](https://phoenixvc.tech) &middot; Eben (CEO/Founder) [eben@phoenixvc.tech](mailto:eben@phoenixvc.tech) &middot; Jurie (Tech) [jurie@phoenixvc.tech](mailto:jurie@phoenixvc.tech)
 
 ---
 
@@ -32,5 +32,3 @@ South Africa  ·  [phoenixvc.tech](https://phoenixvc.tech)  ·  Eben (CEO/Fo
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-OLD: 'South Africa \xa0�\xa0 [phoenixvc.tech](https://phoenixvc.tech) \xa0�\xa0 [jurie@phoenixvc.tech](mailto:jurie@phoenixvc.tech)\n'
-NEW: 'South Africa \xa0�\xa0 [phoenixvc.tech](https://phoenixvc.tech) \xa0�\xa0 Eben (CEO/Founder) [eben@phoenixvc.tech](mailto:eben@phoenixvc.tech)  �  Jurie (Tech) [jurie@phoenixvc.tech](mailto:jurie@phoenixvc.tech)\n'
