@@ -11,13 +11,13 @@ South Africa &middot; [phoenixvc.tech](https://phoenixvc.tech) &middot; [LinkedI
 | Project | Description |
 |---------|-------------|
 | [mystira-workspace](https://github.com/phoenixvc/mystira-workspace) | AI-powered interactive storytelling for children — .NET · TypeScript · Rust monorepo |
-| [cognitive-mesh](https://github.com/phoenixvc/cognitive-mesh) | Enterprise agent/LLM platform with layered governance — relaunching as **neuralliquid.ai** |
-| [phoenix-flow](https://github.com/phoenixvc/phoenix-flow) | Human + agent shared task graph — Kanban UI, MCP server, bidirectional YAML sync |
-| [retort](https://github.com/phoenixvc/retort) | Polyglot AI-orchestration framework — agent teams, skills, quality gates for real projects |
-| [deck](https://github.com/phoenixvc/deck) | Desktop ops tool — Tauri shell with service manager, infra panel, and agent integrations |
-| [sluice](https://github.com/phoenixvc/sluice) | OpenAI-compatible AI gateway on Azure Container Apps — LiteLLM routing and cost control |
-| [docket](https://github.com/phoenixvc/docket) | LLM spend tracking — usage analytics and cost optimisation across the platform |
-| [mcp-org](https://github.com/phoenixvc/mcp-org) | Org-level MCP server — cross-repo tasks, roadmap, and pipeline health for AI agents |
+| [cognitive-mesh](https://github.com/neuralliquid/cognitive-mesh) | Enterprise agent/LLM platform with layered governance — relaunching as **neuralliquid.ai** |
+| [baton](https://github.com/celladore/baton) | Human + agent shared task graph — Kanban UI, MCP server, bidirectional YAML sync |
+| [retort](https://github.com/celladore/retort) | Polyglot AI-orchestration framework — agent teams, skills, quality gates for real projects |
+| [deck](https://github.com/celladore/deck) | Desktop ops tool — Tauri shell with service manager, infra panel, and agent integrations |
+| [sluice](https://github.com/celladore/sluice) | OpenAI-compatible AI gateway on Azure Container Apps — LiteLLM routing and cost control |
+| [docket](https://github.com/celladore/docket) | LLM spend tracking — usage analytics and cost optimisation across the platform |
+| [mcp-org](https://github.com/JustAGhosT/mcp-org) | Org-level MCP server — cross-repo tasks, roadmap, and pipeline health for AI agents |
 | [codeflow-engine](https://github.com/phoenixvc/codeflow-engine) | AutoPR engine — multi-agent Python system for automated PR and DevOps workflows |
 
 ## Stack
