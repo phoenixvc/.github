@@ -18,7 +18,7 @@ South Africa &middot; [phoenixvc.tech](https://phoenixvc.tech) &middot; [LinkedI
 | [sluice](https://github.com/celladore/sluice) | OpenAI-compatible AI gateway on Azure Container Apps — LiteLLM routing and cost control |
 | [docket](https://github.com/celladore/docket) | LLM spend tracking — usage analytics and cost optimisation across the platform |
 | [mcp-org](https://github.com/JustAGhosT/mcp-org) | Org-level MCP server — cross-repo tasks, roadmap, and pipeline health for AI agents |
-| [codeflow-engine](https://github.com/phoenixvc/codeflow-engine) | AutoPR engine — multi-agent Python system for automated PR and DevOps workflows |
+| [codeflow-engine](https://github.com/celladore/codeflow-engine) | AutoPR engine — multi-agent Python system for automated PR and DevOps workflows |
 
 ## Stack
 
